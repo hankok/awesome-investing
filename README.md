@@ -59,7 +59,7 @@ First, before you start to invest why not learn a thing or two?
 |[KoyFin](https://www.koyfin.com/)|Investment research tool|
 |[Seeking Alpha](https://seekingalpha.com/)|Some people write their research. Some people pay.|
 |[ROIC.ai](https://www.roic.ai)|Minimalistic financial data for public companies|
-|[Wave Radar](https://waveradar.us/)|Technical screener for US, China A-share and Hong Kong stocks (Elliott/Fibonacci and Chan theory structure, gamma exposure, fair-value bands)|
+|[Wave Radar](https://waveradar.us/)|Technical screener for US, China A-share and Hong Kong stocks (75 technical signals with per-stock historical win rates, gamma exposure, fair-value bands)|
 
 # Insider & Superinvestors portfolios
 
